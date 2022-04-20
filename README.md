@@ -5,7 +5,7 @@
 <img src="https://user-images.githubusercontent.com/100588945/164335726-3d369193-e8c1-4685-8fb2-8f5be9e019f4.gif" width="200">
 </p>
 
-CAPTCHA based app that identifies if the user is a human  or a robot.
+<p align="justify">CAPTCHA based app that identifies if the user is a human  or a robot.</br>
 Nowadays, internet security is essential. If we do not secure our systems, people who create malicious code,
 extract our essential details like bank details or personal details, and use it to steal money, do fraud. Such people are called hackers.
 That is why we have antivirus software on our systems.
@@ -19,3 +19,4 @@ Goal: </br>
 ● Utilize Machine Learning-enabled web API that provides information related to the tags/elements present in the image.</br>
 </br>
 Made by Louise Lalanne 💙
+</p>
