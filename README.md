@@ -11,8 +11,7 @@ App made and hosted in Tunkable, click <a href="https://x.thunkable.com/copy/9d2
 </br>
 </br>
 Nowadays, internet security is essential. If we do not secure our systems, people who create malicious code,
-extract our essential details like bank details or personal details, and use it to steal money, do fraud. Such people are called hackers.
-That is why we have antivirus software on our systems.
+extract our essential details like bank details or personal details, and use it to steal money, do fraud.
 Similarly, hackers create programs that are like bots, which spam the account and steal information.
 At times, while logging into an account, security systems check if the person logging in is a real person or a bot.
 Robots do not see the information as we see it unless it is trained. Hence, we have something called Captcha.
